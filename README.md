@@ -1,4 +1,4 @@
-# PiotrAdamWilk
+# Informacje
 Projekt został utworzony w Unity wersja 5.5.1f1.
 Po pobraniu, gdy Unity zostanie uruchomione projekt otwieramy za pomocą polecenia “Open” wybierając następnie ścieżkę dostępu do folderu z projektem “MazeOfEscape”.
 
