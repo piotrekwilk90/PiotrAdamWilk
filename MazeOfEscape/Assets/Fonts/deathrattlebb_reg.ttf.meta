@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bb84039700ffe0742ab7a5684e6efb2a
+timeCreated: 1498754944
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DeathRattle BB
+  fontNames:
+  - DeathRattle BB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

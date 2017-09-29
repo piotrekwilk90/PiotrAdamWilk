@@ -1,0 +1,1025 @@
+fileFormatVersion: 2
+guid: 6fff3d6c203571649b2ad269e0e53615
+timeCreated: 1501274000
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rollrotate_0
+    21300002: rollrotate_1
+    21300004: rollrotate_2
+    21300006: rollrotate_3
+    21300008: rollrotate_4
+    21300010: rollrotate_5
+    21300012: rollrotate_6
+    21300014: rollrotate_7
+    21300016: rollrotate_8
+    21300018: rollrotate_9
+    21300020: rollrotate_10
+    21300022: rollrotate_11
+    21300024: rollrotate_12
+    21300026: rollrotate_13
+    21300028: rollrotate_14
+    21300030: rollrotate_15
+    21300032: rollrotate_16
+    21300034: rollrotate_17
+    21300036: rollrotate_18
+    21300038: rollrotate_19
+    21300040: rollrotate_20
+    21300042: rollrotate_21
+    21300044: rollrotate_22
+    21300046: rollrotate_23
+    21300048: rollrotate_24
+    21300050: rollrotate_25
+    21300052: rollrotate_26
+    21300054: rollrotate_27
+    21300056: rollrotate_28
+    21300058: rollrotate_29
+    21300060: rollrotate_30
+    21300062: rollrotate_31
+    21300064: rollrotate_32
+    21300066: rollrotate_33
+    21300068: rollrotate_34
+    21300070: rollrotate_35
+    21300072: rollrotate_36
+    21300074: rollrotate_37
+    21300076: rollrotate_38
+    21300078: rollrotate_39
+    21300080: rollrotate_40
+    21300082: rollrotate_41
+    21300084: rollrotate_42
+    21300086: rollrotate_43
+    21300088: rollrotate_44
+    21300090: rollrotate_45
+    21300092: rollrotate_46
+    21300094: rollrotate_47
+    21300096: rollrotate_48
+    21300098: rollrotate_49
+    21300100: rollrotate_50
+    21300102: rollrotate_51
+    21300104: rollrotate_52
+    21300106: rollrotate_53
+    21300108: rollrotate_54
+    21300110: rollrotate_55
+    21300112: rollrotate_56
+    21300114: rollrotate_57
+    21300116: rollrotate_58
+    21300118: rollrotate_59
+    21300120: rollrotate_60
+    21300122: rollrotate_61
+    21300124: rollrotate_62
+    21300126: rollrotate_63
+    21300128: rollrotate_64
+    21300130: rollrotate_65
+    21300132: rollrotate_66
+    21300134: rollrotate_67
+    21300136: rollrotate_68
+    21300138: rollrotate_69
+    21300140: rollrotate_70
+    21300142: rollrotate_71
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rollrotate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_13
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_15
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_23
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_28
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_29
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_30
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_31
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_36
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_37
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_38
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_39
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_42
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_43
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_45
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_46
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_47
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_50
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_52
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_53
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_55
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_59
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_60
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_61
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_62
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_63
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rollrotate_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

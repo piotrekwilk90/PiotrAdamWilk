@@ -1,0 +1,1704 @@
+fileFormatVersion: 2
+guid: 10b79d81acb800b4ca1a74bd7b99e621
+timeCreated: 1501276317
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rotate-gearvr_0
+    21300002: rotate-gearvr_1
+    21300004: rotate-gearvr_2
+    21300006: rotate-gearvr_3
+    21300008: rotate-gearvr_4
+    21300010: rotate-gearvr_5
+    21300012: rotate-gearvr_6
+    21300014: rotate-gearvr_7
+    21300016: rotate-gearvr_8
+    21300018: rotate-gearvr_9
+    21300020: rotate-gearvr_10
+    21300022: rotate-gearvr_11
+    21300024: rotate-gearvr_12
+    21300026: rotate-gearvr_13
+    21300028: rotate-gearvr_14
+    21300030: rotate-gearvr_15
+    21300032: rotate-gearvr_16
+    21300034: rotate-gearvr_17
+    21300036: rotate-gearvr_18
+    21300038: rotate-gearvr_19
+    21300040: rotate-gearvr_20
+    21300042: rotate-gearvr_21
+    21300044: rotate-gearvr_22
+    21300046: rotate-gearvr_23
+    21300048: rotate-gearvr_24
+    21300050: rotate-gearvr_25
+    21300052: rotate-gearvr_26
+    21300054: rotate-gearvr_27
+    21300056: rotate-gearvr_28
+    21300058: rotate-gearvr_29
+    21300060: rotate-gearvr_30
+    21300062: rotate-gearvr_31
+    21300064: rotate-gearvr_32
+    21300066: rotate-gearvr_33
+    21300068: rotate-gearvr_34
+    21300070: rotate-gearvr_35
+    21300072: rotate-gearvr_36
+    21300074: rotate-gearvr_37
+    21300076: rotate-gearvr_38
+    21300078: rotate-gearvr_39
+    21300080: rotate-gearvr_40
+    21300082: rotate-gearvr_41
+    21300084: rotate-gearvr_42
+    21300086: rotate-gearvr_43
+    21300088: rotate-gearvr_44
+    21300090: rotate-gearvr_45
+    21300092: rotate-gearvr_46
+    21300094: rotate-gearvr_47
+    21300096: rotate-gearvr_48
+    21300098: rotate-gearvr_49
+    21300100: rotate-gearvr_50
+    21300102: rotate-gearvr_51
+    21300104: rotate-gearvr_52
+    21300106: rotate-gearvr_53
+    21300108: rotate-gearvr_54
+    21300110: rotate-gearvr_55
+    21300112: rotate-gearvr_56
+    21300114: rotate-gearvr_57
+    21300116: rotate-gearvr_58
+    21300118: rotate-gearvr_59
+    21300120: rotate-gearvr_60
+    21300122: rotate-gearvr_61
+    21300124: rotate-gearvr_62
+    21300126: rotate-gearvr_63
+    21300128: rotate-gearvr_64
+    21300130: rotate-gearvr_65
+    21300132: rotate-gearvr_66
+    21300134: rotate-gearvr_67
+    21300136: rotate-gearvr_68
+    21300138: rotate-gearvr_69
+    21300140: rotate-gearvr_70
+    21300142: rotate-gearvr_71
+    21300144: rotate-gearvr_72
+    21300146: rotate-gearvr_73
+    21300148: rotate-gearvr_74
+    21300150: rotate-gearvr_75
+    21300152: rotate-gearvr_76
+    21300154: rotate-gearvr_77
+    21300156: rotate-gearvr_78
+    21300158: rotate-gearvr_79
+    21300160: rotate-gearvr_80
+    21300162: rotate-gearvr_81
+    21300164: rotate-gearvr_82
+    21300166: rotate-gearvr_83
+    21300168: rotate-gearvr_84
+    21300170: rotate-gearvr_85
+    21300172: rotate-gearvr_86
+    21300174: rotate-gearvr_87
+    21300176: rotate-gearvr_88
+    21300178: rotate-gearvr_89
+    21300180: rotate-gearvr_90
+    21300182: rotate-gearvr_91
+    21300184: rotate-gearvr_92
+    21300186: rotate-gearvr_93
+    21300188: rotate-gearvr_94
+    21300190: rotate-gearvr_95
+    21300192: rotate-gearvr_96
+    21300194: rotate-gearvr_97
+    21300196: rotate-gearvr_98
+    21300198: rotate-gearvr_99
+    21300200: rotate-gearvr_100
+    21300202: rotate-gearvr_101
+    21300204: rotate-gearvr_102
+    21300206: rotate-gearvr_103
+    21300208: rotate-gearvr_104
+    21300210: rotate-gearvr_105
+    21300212: rotate-gearvr_106
+    21300214: rotate-gearvr_107
+    21300216: rotate-gearvr_108
+    21300218: rotate-gearvr_109
+    21300220: rotate-gearvr_110
+    21300222: rotate-gearvr_111
+    21300224: rotate-gearvr_112
+    21300226: rotate-gearvr_113
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rotate-gearvr_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_8
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_9
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_10
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_11
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_12
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_13
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_14
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_15
+      rect:
+        serializedVersion: 2
+        x: 15000
+        y: 5250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_23
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_24
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_25
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_26
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_27
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_28
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_29
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_30
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_31
+      rect:
+        serializedVersion: 2
+        x: 15000
+        y: 4500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_36
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_37
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_38
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_39
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_40
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_41
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_42
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_43
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_44
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_45
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_46
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_47
+      rect:
+        serializedVersion: 2
+        x: 15000
+        y: 3750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_50
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_52
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_53
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_55
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_56
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_57
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_58
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_59
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_60
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_61
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_62
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_63
+      rect:
+        serializedVersion: 2
+        x: 15000
+        y: 3000
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_66
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_67
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_69
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_70
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_71
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_72
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_73
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_74
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_75
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_76
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_77
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_78
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_79
+      rect:
+        serializedVersion: 2
+        x: 15000
+        y: 2250
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_81
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_82
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_83
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_84
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_85
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_86
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_87
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_88
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_89
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_90
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_91
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_92
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_93
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_94
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_95
+      rect:
+        serializedVersion: 2
+        x: 15000
+        y: 1500
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_97
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_98
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_99
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_100
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_101
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_102
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_103
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_104
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_105
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_106
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_107
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_108
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_109
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_110
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_111
+      rect:
+        serializedVersion: 2
+        x: 15000
+        y: 750
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rotate-gearvr_113
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

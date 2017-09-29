@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeOfEscape.Plugins", "MazeOfEscape.Plugins.csproj", "{5B75ECAD-6DBD-DA61-9FD5-EFCE8300B209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeOfEscape", "MazeOfEscape.csproj", "{AD3162BB-E409-A87F-9AD8-119871D5ED60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeOfEscape.Editor.Plugins", "MazeOfEscape.Editor.Plugins.csproj", "{41C5C9B4-92E5-2184-88F3-ACD9922494F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeOfEscape.Editor", "MazeOfEscape.Editor.csproj", "{F9DF3AF7-51C7-47F9-F6DD-48CC263BBE84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B75ECAD-6DBD-DA61-9FD5-EFCE8300B209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B75ECAD-6DBD-DA61-9FD5-EFCE8300B209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B75ECAD-6DBD-DA61-9FD5-EFCE8300B209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B75ECAD-6DBD-DA61-9FD5-EFCE8300B209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3162BB-E409-A87F-9AD8-119871D5ED60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3162BB-E409-A87F-9AD8-119871D5ED60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3162BB-E409-A87F-9AD8-119871D5ED60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3162BB-E409-A87F-9AD8-119871D5ED60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C5C9B4-92E5-2184-88F3-ACD9922494F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C5C9B4-92E5-2184-88F3-ACD9922494F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C5C9B4-92E5-2184-88F3-ACD9922494F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C5C9B4-92E5-2184-88F3-ACD9922494F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DF3AF7-51C7-47F9-F6DD-48CC263BBE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DF3AF7-51C7-47F9-F6DD-48CC263BBE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DF3AF7-51C7-47F9-F6DD-48CC263BBE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DF3AF7-51C7-47F9-F6DD-48CC263BBE84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
