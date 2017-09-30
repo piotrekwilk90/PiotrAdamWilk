@@ -30,7 +30,7 @@ public class PodsumowanieRundy : MonoBehaviour
 
             //zapisywanie czasu gracza
             TimeCounter sc = partner.GetComponent<TimeCounter>();
-            CzasGraczaFloat = sc.JakasWartosc;
+            CzasGraczaFloat = sc.CzasWartosc;
             PlayerPrefs.SetFloat("CzasGraczaRandom", CzasGraczaFloat);
             PlayerPrefs.Save();
             Debug.Log("Hello");

@@ -12,12 +12,12 @@ public class TimeCounter : MonoBehaviour {
    float secondsCount;
     float WartoscPoczatkowa;
     public float CzasDoOdliczenia;
- public float JakasWartosc;
+ public float CzasWartosc;
     public GameObject Blokada;
     // Use this for initialization
     void Start () {
         WartoscPoczatkowa = CzasDoOdliczenia;
-        JakasWartosc = 0;
+        CzasWartosc = 0;
      
         Blokada.SetActive(false);
 	}
@@ -30,7 +30,7 @@ public class TimeCounter : MonoBehaviour {
         if (CzasDoOdliczenia > 0)
         {
            
-            JakasWartosc = WartoscPoczatkowa -CzasDoOdliczenia ;
+            CzasWartosc = WartoscPoczatkowa - CzasDoOdliczenia;
             
         }
    

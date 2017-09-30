@@ -30,7 +30,7 @@ public class NowaRundaTWO : MonoBehaviour
 
             //zapisywanie czasu gracza
             TimeCounter sc = partner.GetComponent<TimeCounter>();
-            CzasGraczaFloat = sc.JakasWartosc;
+            CzasGraczaFloat = sc.CzasWartosc;
             PlayerPrefs.SetFloat("CzasGraczaDrugaRunda", CzasGraczaFloat);
             PlayerPrefs.Save();
             Debug.Log("Hello");
